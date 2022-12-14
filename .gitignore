@@ -1,0 +1,11 @@
+
+# Compiled file
+*.class
+__pycache__
+
+
+#Token
+token.json
+
+#Enviroment
+venv
