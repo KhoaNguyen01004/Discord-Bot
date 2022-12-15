@@ -9,3 +9,6 @@ token.json
 
 #Enviroment
 venv
+
+#auto generate file
+.png
